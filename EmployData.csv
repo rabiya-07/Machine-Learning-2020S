@@ -1,0 +1,13 @@
+City,Age,Salary,Eligible for bonus
+Mumbai,3,51000,Yes
+Newyork,27,48000,Yes
+Mumbai,30,52000,No
+Newyork,,66000,No
+Tokyo,48,,Yes
+Tokyo,,51000,No
+Singapore,33,69000,No
+Newyork,105,79000,Yes
+Newyork,35,56000,No
+Tokyo,,50000,No
+Newyork,105,79000,Yes
+Mumbai,2,76543,Yes
